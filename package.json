@@ -1,0 +1,15 @@
+{
+  "name": "youtube_stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://sacred.us.to:3000/sacred/youtube_stream.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
