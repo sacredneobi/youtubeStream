@@ -1,0 +1,1 @@
+DELETE {{hostname}}/users?id=2

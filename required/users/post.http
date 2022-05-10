@@ -1,0 +1,6 @@
+POST {{hostname}}/users
+Content-Type: application/json
+
+{
+  "caption" : "sacred"
+}
